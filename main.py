@@ -1,16 +1,3 @@
-# 🔹 Desafio 1: Análise de Vendas com Pandas
-# Crie um sistema simples de análise de dados de vendas. O programa deve:
-
-# Carregar dados de um CSV (colunas: Produto, Data, Quantidade, Preço).
-
-# Calcular o total vendido por produto.
-
-# Mostrar o produto mais vendido (em unidades e em valor).
-
-# Permitir filtrar vendas por período (ex: mês de março).
-
-# Gerar um CSV de resumo (relatório).
-
 # %%
 import pandas as pd
 
